@@ -1,0 +1,2 @@
+some content to check git initialization
+newly added line to check remote to local pull and commiting in GIT
